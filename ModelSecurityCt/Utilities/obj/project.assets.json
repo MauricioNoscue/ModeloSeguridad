@@ -3013,11 +3013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\Repo\\ModelSecurityCt\\Utilities\\Utilities.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj",
       "projectName": "Utilities",
-      "projectPath": "C:\\Users\\USUARIO\\Documents\\Repo\\ModelSecurityCt\\Utilities\\Utilities.csproj",
+      "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\Documents\\Repo\\ModelSecurityCt\\Utilities\\obj\\",
+      "outputPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3038,8 +3038,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\USUARIO\\Documents\\Repo\\ModelSecurityCt\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\USUARIO\\Documents\\Repo\\ModelSecurityCt\\Entity\\Entity.csproj"
+            "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj"
             }
           }
         }

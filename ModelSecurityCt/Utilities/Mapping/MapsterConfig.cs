@@ -1,4 +1,5 @@
 ﻿using Entity.DTO;
+using Entity.DTO.DTOLogin;
 using Entity.Model;
 using Mapster;
 using System;
@@ -17,6 +18,12 @@ namespace Utilities.Mapping
             TypeAdapterConfig<RolDTO, Rol>.NewConfig();
             TypeAdapterConfig<User, UserDTO>.NewConfig();
             TypeAdapterConfig<UserDTO, User>.NewConfig();
+
+            TypeAdapterConfig<User, UserLoginDTO>.NewConfig();
+            TypeAdapterConfig<UserLoginDTO,User>.NewConfig();
+
+
+
             TypeAdapterConfig<Permission, PermissionDTO>.NewConfig();
             TypeAdapterConfig<PermissionDTO, Permission>.NewConfig();
             TypeAdapterConfig<Module, ModuleDTO>.NewConfig();

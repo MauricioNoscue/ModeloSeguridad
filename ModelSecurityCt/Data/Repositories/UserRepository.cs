@@ -7,6 +7,7 @@ using Data.Core;
 using Data.Interfaces;
 using Entity.context;
 using Entity.Model;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
 namespace Data.Repositories
@@ -31,6 +32,15 @@ namespace Data.Repositories
         /// <param name="logger">Instancia de ILogger para registrar logs y advertencias.</param>
         public UserRepository(ApplicationDbContext context, ILogger<UserRepository> logger)
         : base(context, logger) { }
+
+        public async Task<IEnumerable<User>> Login(User user)
+        {
+            var email = user.Email;
+            var password = user.Password;
+            return await _context.Set<User>()
+                .Where(user => user.Email == email && user.Password == password)
+                .ToListAsync();
+        }
         // Aquí pueden agregarse métodos específicos para User, por ejemplo:
         // public async Task<User?> GetByDocumentAsync(string dni)
         // {

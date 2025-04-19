@@ -29,7 +29,7 @@ namespace Data.Core
         public async Task<IEnumerable<T>> GetAllAsync()
         {
             return await _context.Set<T>()
-                .Where(t => EF.Property<bool>(t, "IsDeleted") == false)
+                
                 .ToListAsync();
         }
 
