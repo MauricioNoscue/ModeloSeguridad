@@ -10,5 +10,15 @@ namespace Business.Services
     {
         public RolService(IRolRepository repository, ILogger<RolService> logger)
             : base(repository, logger) { }
+    
+
+
+    //public async Task<IEnumerable<RolDTO>> GetAllJWT()
+    //    {
+    //        roles = _repository.GetAllAsyncJWT();
+    //        return roles;
+    //    } 
     }
+
 }
+ 

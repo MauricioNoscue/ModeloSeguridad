@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Web.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Entity.DTO.DTOLogin.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Web.Controllers.FormController",
     "Method": "GetAllForm",
     "RelativePath": "api/Form",

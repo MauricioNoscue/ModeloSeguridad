@@ -1,12 +1,13 @@
 ﻿using Business.Services;
 using Entity.DTO;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Utilities;
 
 namespace Web.Controllers
 {
-
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     [Produces("application/json")]
@@ -28,7 +29,7 @@ namespace Web.Controllers
         {
             try
             {
-                var RolUsers = await _RolUserBusiness.GetAllAsync();
+                var RolUsers = await _RolUserBusiness.GetAllWithUserEmailAsync();
                 return Ok(RolUsers);
             }
             catch (ExternalServiceException ex)

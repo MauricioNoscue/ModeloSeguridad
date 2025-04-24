@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 using Entity.context;
 using Entity.Model;
+using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
@@ -15,11 +17,13 @@ namespace Data.Core
     {
         protected readonly ApplicationDbContext _context;
         private readonly ILogger _logger;
+        //private readonly IHttpContextAccessor _httpContextAccessor;
 
         public GenericRepository(ApplicationDbContext context, ILogger logger)
         {
             _context = context;
             _logger = logger;
+            //_httpContextAccessor = httpContextAccessor;
         }
 
         /// <summary>
@@ -119,6 +123,27 @@ namespace Data.Core
             _logger.LogWarning($"La entidad {typeof(T).Name} no tiene propiedad IsDeleted o no es de tipo bool.");
             return false;
         }
+
+        //public async Task<IEnumerable<T>> GetAllAsyncJWT()
+        //{
+        //    var role = _httpContextAccessor.HttpContext?.User?.FindFirst(ClaimTypes.Role)?.Value;
+
+        //    var query = _context.Set<T>().AsQueryable();
+
+        //    if (role != "Admin")
+        //    {
+        //        // Filtrado por reflexión si la propiedad IsDeleted existe
+        //        var prop = typeof(T).GetProperty("IsDeleted");
+        //        if (prop != null && prop.PropertyType == typeof(bool))
+        //        {
+        //            query = query.Where(e =>
+        //                (bool)prop.GetValue(e)! == false
+        //            ).AsQueryable();
+        //        }
+        //    }
+
+        //    return query.ToList(); // o await query.ToListAsync() si haces que todo sea async
+        //}
 
     }
 }

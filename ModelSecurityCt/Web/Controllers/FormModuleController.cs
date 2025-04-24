@@ -3,9 +3,11 @@ using Entity.DTO;
 using Microsoft.AspNetCore.Mvc;
 using Utilities;
 using Business.Services;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Web.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     [Produces("application/json")]

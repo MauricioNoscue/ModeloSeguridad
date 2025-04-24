@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Data.Core;
+using Entity.DTO.DTOLogin;
 using Entity.Model;
 
 namespace Data.Interfaces
 {
     public interface IUserRepository : IRepository<User>
     {
-        Task<IEnumerable<User>> Login(User user);
+        public Task<User?> validarCredenciales(string email, string password);
         
     }
 }

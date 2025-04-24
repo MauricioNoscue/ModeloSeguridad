@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Data.Core;
 using Data.Interfaces;
 using Entity.context;
+using Entity.DTO.DTOLogin;
 using Entity.Model;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
@@ -33,18 +34,12 @@ namespace Data.Repositories
         public UserRepository(ApplicationDbContext context, ILogger<UserRepository> logger)
         : base(context, logger) { }
 
-        public async Task<IEnumerable<User>> Login(User user)
+        public async Task<User?> validarCredenciales(string email, string password)
         {
-            var email = user.Email;
-            var password = user.Password;
-            return await _context.Set<User>()
-                .Where(user => user.Email == email && user.Password == password)
-                .ToListAsync();
+           var user = await _context.Set<User>().FirstOrDefaultAsync(u => u.Email == email && u.Password == password);
+            if (user == null) return null;
+
+            return user;
         }
-        // Aquí pueden agregarse métodos específicos para User, por ejemplo:
-        // public async Task<User?> GetByDocumentAsync(string dni)
-        // {
-        //     return await _context.People.FirstOrDefaultAsync(p => p.Document == dni);
-        // }
     }
 }

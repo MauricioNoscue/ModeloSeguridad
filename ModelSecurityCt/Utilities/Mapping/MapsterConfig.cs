@@ -19,8 +19,7 @@ namespace Utilities.Mapping
             TypeAdapterConfig<User, UserDTO>.NewConfig();
             TypeAdapterConfig<UserDTO, User>.NewConfig();
 
-            TypeAdapterConfig<User, UserLoginDTO>.NewConfig();
-            TypeAdapterConfig<UserLoginDTO,User>.NewConfig();
+
 
 
 

@@ -62,6 +62,9 @@ namespace Data.Core
 
 
         Task<bool> UpdateIsDeleted(int id);
+
+        // Método para obtener la data Dependiendo del rol 
+         //Task<IEnumerable<T>> GetAllAsyncJWT();
     }
 
 

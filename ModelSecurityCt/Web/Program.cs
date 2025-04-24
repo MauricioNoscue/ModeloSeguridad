@@ -1,3 +1,4 @@
+using System.Text;
 using Business;
 using Business.Interfaces;
 using Business.Services;
@@ -5,7 +6,9 @@ using Data.Interfaces;
 using Data.Repositories;
 using Entity.context;
 using Mapster;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using Utilities.Mapping;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -46,8 +49,18 @@ builder.Services.AddScoped<RolUserService>();
 
 builder.Services.AddScoped<IRolFormPermissionRepository, RolFormPermissionRepository>();
 builder.Services.AddScoped<RolFormPermissionService>();
-builder.Services.AddMapster(); // agrega IMapper
-MapsterConfig.RegisterMappings(); // registra los mapeos
+builder.Services.AddScoped<JWTService>();
+
+builder.Services.AddScoped<AuthService>();
+
+builder.Services.AddScoped<RolUserRepository>();
+// posible causa de error
+builder.Services.AddHttpContextAccessor();
+
+
+
+builder.Services.AddMapster(); 
+MapsterConfig.RegisterMappings(); 
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
@@ -77,8 +90,29 @@ builder.Services.AddCors(opciones =>
         politica.WithOrigins(OrigenesPermitidos).AllowAnyHeader().AllowAnyMethod();
     });
 });
-//builder.Services.AddDbContext<ApplicationDbContext>(opciones =>
-//opciones.UseSqlServer("name=DefaultConnection"));
+
+var jwtSettings = builder.Configuration.GetSection("JwtSettings");
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = jwtSettings["Issuer"],
+        ValidAudience = jwtSettings["Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(
+            Encoding.UTF8.GetBytes(jwtSettings["Key"]!)
+        )
+    };
+});
 
 
 var app = builder.Build();
@@ -92,8 +126,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseCors();
-app.UseAuthorization();
 
+app.UseAuthentication();
+app.UseAuthorization();
 app.MapControllers();
 
 app.Run();

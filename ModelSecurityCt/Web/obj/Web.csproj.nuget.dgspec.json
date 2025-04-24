@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj": {
+    "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj"
+              "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj"
               },
-              "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj"
+              "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -51,7 +51,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -64,6 +64,10 @@
             "Mapster.DependencyInjection": {
               "target": "Package",
               "version": "[1.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.8.0, )"
             }
           },
           "imports": [
@@ -82,24 +86,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj": {
+    "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -114,8 +118,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj"
+              "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj"
               }
             }
           }
@@ -130,7 +134,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -143,6 +147,10 @@
             "Mapster.DependencyInjection": {
               "target": "Package",
               "version": "[1.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             }
           },
           "imports": [
@@ -161,24 +169,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj": {
+    "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -205,7 +213,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -264,24 +272,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj": {
+    "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Utilities.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -296,8 +304,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj"
+              "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Entity.csproj"
               }
             }
           }
@@ -312,7 +320,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -343,24 +351,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj": {
+    "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\obj\\",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -375,8 +383,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj"
+              "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj"
               }
             }
           }
@@ -391,7 +399,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -404,6 +412,10 @@
             "Mapster.DependencyInjection": {
               "target": "Package",
               "version": "[1.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -451,7 +463,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

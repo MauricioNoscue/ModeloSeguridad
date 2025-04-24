@@ -7,6 +7,7 @@ using Data.Core;
 using Data.Interfaces;
 using Entity.context;
 using Entity.Model;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 
 namespace Data.Repositories

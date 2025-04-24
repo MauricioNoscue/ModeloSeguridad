@@ -1,262 +1,294 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\core\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\core\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\interfaces\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\core\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\core\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\utilities\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|solutionrelative:utilities\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\dtologin\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\dtologin\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\core\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\core\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\rolformpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolformpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\formmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\formmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\utilities\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|solutionrelative:utilities\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\roluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\roluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\rolformpermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\rolformpermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\formmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\formmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\formmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\formmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\formmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\formmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\core\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\core\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\core\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\core\\iservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\ddl\\postgresql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\ddl\\postgresql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\ddl\\mysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\ddl\\mysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\ddl\\sqlserver.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\ddl\\sqlserver.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\rolformpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\rolformpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\rolformpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rolformpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\formmoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\formmoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\roluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\roluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\roluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\roluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\roluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\rolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\rolformpermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\rolformpermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\iformmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iformmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\rolformpermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\formrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\repositories\\formmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\repositories\\formmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\core\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\core\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\utilities\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|solutionrelative:utilities\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\rolformpermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\rolformpermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\utilities\\dataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\utilities\\dataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|solutionrelative:utilities\\dataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\iroluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\ddl\\sqlserver.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\ddl\\sqlserver.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\iroluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iroluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\usuario\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\dtologin\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\dtologin\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\dtologin\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\dtologin\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\dtologin\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\dtologin\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\rolformpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolformpermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\formmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\formmodulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0CA991D-E68C-4CBC-9CAC-9023621A1A69}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\iformmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iformmodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\interfaces\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\utilities\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493007E-E2C3-4D63-B041-342414B98ACE}|Utilities\\Utilities.csproj|solutionrelative:utilities\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\formmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\formmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\formmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\formmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\ddl\\postgresql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\ddl\\postgresql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\ddl\\mysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\ddl\\mysql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\rolformpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\rolformpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\rolformpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rolformpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\formmoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\formmoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\business\\services\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B3D0D6-9009-4662-9A90-CAC30B7F1776}|Business\\Business.csproj|solutionrelative:business\\services\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\formdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\data\\interfaces\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE2FA2-CA5C-4EF4-9A66-3D4DF791FA1B}|Data\\Data.csproj|solutionrelative:data\\interfaces\\irolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\model\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|c:\\users\\asus\\desktop\\modeloseguridad\\modelsecurityct\\entity\\ddl\\sqlserver.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{DE4B061F-A934-4C69-A06D-AAD45E8BAC71}|Entity\\Entity.csproj|solutionrelative:entity\\ddl\\sqlserver.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -266,685 +298,598 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1109014046:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1091023338:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1100517980:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:610743205:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RolUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\RolUserRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolUserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\RolUserRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:27:31.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IServiceBase.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Core\\IServiceBase.cs",
-              "RelativeDocumentMoniker": "Business\\Core\\IServiceBase.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Core\\IServiceBase.cs",
-              "RelativeToolTip": "Business\\Core\\IServiceBase.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAvwDwAAAArAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T21:51:35.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceBase.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Core\\ServiceBase.cs",
-              "RelativeDocumentMoniker": "Business\\Core\\ServiceBase.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Core\\ServiceBase.cs",
-              "RelativeToolTip": "Business\\Core\\ServiceBase.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA2wCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T21:51:33.822Z"
+              "WhenOpened": "2025-04-09T05:27:57.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Data\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAFAAAAAAAAAA==",
+              "Title": "RolUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolUserService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\RolUserService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolUserService.cs",
+              "RelativeToolTip": "Business\\Services\\RolUserService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T22:52:29.119Z"
+              "WhenOpened": "2025-04-08T20:18:23.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IFormService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Interfaces\\IFormService.cs",
-              "RelativeDocumentMoniker": "Business\\Interfaces\\IFormService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Interfaces\\IFormService.cs",
-              "RelativeToolTip": "Business\\Interfaces\\IFormService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\RolService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolService.cs",
+              "RelativeToolTip": "Business\\Services\\RolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:08:14.332Z"
+              "WhenOpened": "2025-04-08T20:13:47.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPersonService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Interfaces\\IPersonService.cs",
-              "RelativeDocumentMoniker": "Business\\Interfaces\\IPersonService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Interfaces\\IPersonService.cs",
-              "RelativeToolTip": "Business\\Interfaces\\IPersonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:08:11.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Business\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\UserService.cs",
               "RelativeToolTip": "Business\\Services\\UserService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAxwB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:16:47.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACUAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Core\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "Business\\Core\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Core\\ServiceBase.cs",
+              "RelativeToolTip": "Business\\Core\\ServiceBase.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:27:57.749Z"
+              "WhenOpened": "2025-04-08T21:51:33.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\User.cs",
-              "RelativeToolTip": "Entity\\Model\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxMAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Core\\IServiceBase.cs",
+              "RelativeDocumentMoniker": "Business\\Core\\IServiceBase.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Core\\IServiceBase.cs",
+              "RelativeToolTip": "Business\\Core\\IServiceBase.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAjwDwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:52:49.75Z"
+              "WhenOpened": "2025-04-08T21:51:35.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MapsterConfig.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Mapping\\MapsterConfig.cs",
-              "RelativeDocumentMoniker": "Utilities\\Mapping\\MapsterConfig.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Mapping\\MapsterConfig.cs",
-              "RelativeToolTip": "Utilities\\Mapping\\MapsterConfig.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T20:42:19.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T04:05:40.564Z"
+              "WhenOpened": "2025-04-08T20:34:07.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Entity\\DTO\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\UserDTO.cs",
-              "RelativeToolTip": "Entity\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAGAAAAAAAAAA==",
+              "Title": "RolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\RolRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\RolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:53:48.969Z"
+              "WhenOpened": "2025-04-09T04:21:14.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "UserLoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\DTOLogin\\UserLoginDTO.cs",
-              "RelativeDocumentMoniker": "Entity\\DTO\\DTOLogin\\UserLoginDTO.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\DTOLogin\\UserLoginDTO.cs",
-              "RelativeToolTip": "Entity\\DTO\\DTOLogin\\UserLoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Title": "RolFormPermissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolFormPermissionRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\RolFormPermissionRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolFormPermissionRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\RolFormPermissionRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T23:03:19.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RolUserController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolUserController.cs",
-              "RelativeDocumentMoniker": "Web\\Controllers\\RolUserController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolUserController.cs",
-              "RelativeToolTip": "Web\\Controllers\\RolUserController.cs",
-              "ViewState": "AgIAALIAAAAAAAAAAAAcwLUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:31:32.028Z"
+              "WhenOpened": "2025-04-09T19:38:00.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Core\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Core\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Core\\GenericRepository.cs",
-              "RelativeToolTip": "Data\\Core\\GenericRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA4wB8AAAAQAAAAAAAAAA==",
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:26:12.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "Web\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "Web\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAPMAAAAAAAAAAAAcwPkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:24:01.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RolController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolController.cs",
-              "RelativeDocumentMoniker": "Web\\Controllers\\RolController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolController.cs",
-              "RelativeToolTip": "Web\\Controllers\\RolController.cs",
-              "ViewState": "AgIAAAQBAAAAAAAAAAAzwBgBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:27:40.057Z"
+              "WhenOpened": "2025-04-09T17:31:38.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Web\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA4wNEAAAAjAAAAAAAAAA==",
+              "Title": "PermissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\PermissionRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PermissionRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\PermissionRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PermissionRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:26:09.341Z"
+              "WhenOpened": "2025-04-09T05:27:05.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\ModuleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ModuleRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\ModuleRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ModuleRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:44:36.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "FormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\FormRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\FormRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\FormRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\FormRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:26:39.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\FormModuleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\FormModuleRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\FormModuleRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\FormModuleRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:09:23.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Core\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Core\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Core\\IRepository.cs",
+              "RelativeToolTip": "Data\\Core\\IRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAApwEIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:28:58.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Core\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Core\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Core\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\Core\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:26:12.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\JWTService.cs",
+              "RelativeDocumentMoniker": "Business\\JWTService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\JWTService.cs",
+              "RelativeToolTip": "Business\\JWTService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:17:02.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\AuthService.cs",
+              "RelativeDocumentMoniker": "Business\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\AuthService.cs",
+              "RelativeToolTip": "Business\\AuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vyEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:12:08.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:52:29.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\User.cs",
+              "RelativeToolTip": "Entity\\Model\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:52:49.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RolUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolUserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolUserController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolUserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolUserController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:31:32.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Mapping\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "Utilities\\Mapping\\MapsterConfig.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\Mapping\\MapsterConfig.cs",
+              "RelativeToolTip": "Utilities\\Mapping\\MapsterConfig.cs",
+              "ViewState": "AgIAAA4AAAAAwVK267MuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:05:40.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RolUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolUserDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\RolUserDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolUserDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\RolUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:31:31.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RolUser.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\RolUser.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\RolUser.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\RolUser.cs",
+              "RelativeToolTip": "Entity\\Model\\RolUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:31:21.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RolFormPermissionService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolFormPermissionService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\RolFormPermissionService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolFormPermissionService.cs",
+              "RelativeToolTip": "Business\\Services\\RolFormPermissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:20:10.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DataException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\DataException.cs",
+              "RelativeDocumentMoniker": "Utilities\\DataException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\DataException.cs",
+              "RelativeToolTip": "Utilities\\DataException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:22:34.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:27:40.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:26:09.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Web\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:24:01.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "sqlServer.sql ",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\sqlServer.sql",
+              "RelativeDocumentMoniker": "Entity\\DDL\\sqlServer.sql",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\sqlServer.sql",
+              "RelativeToolTip": "Entity\\DDL\\sqlServer.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-09T19:36:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRolUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IRolUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IRolUserRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IRolUserRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IRolUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:27:23.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:21:37.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserTokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\DTOLogin\\UserTokenDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\DTOLogin\\UserTokenDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\DTOLogin\\UserTokenDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\DTOLogin\\UserTokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:07:03.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\DTOLogin\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\DTOLogin\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\DTOLogin\\LoginDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\DTOLogin\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:58:40.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T02:04:13.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\DTOLogin\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\DTOLogin\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\DTOLogin\\UsuarioDto.cs",
+              "RelativeToolTip": "Entity\\DTO\\DTOLogin\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:00:42.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T21:11:59.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "RolFormPermissionController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolFormPermissionController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolFormPermissionController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\RolFormPermissionController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolFormPermissionController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\RolFormPermissionController.cs",
               "RelativeToolTip": "Web\\Controllers\\RolFormPermissionController.cs",
-              "ViewState": "AgIAAOMAAAAAAAAAAAAcwPkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:32:53.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 40,
               "Title": "PermissionController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\PermissionController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\PermissionController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\PermissionController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\PermissionController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\PermissionController.cs",
               "RelativeToolTip": "Web\\Controllers\\PermissionController.cs",
-              "ViewState": "AgIAAAIBAAAAAAAAAAAzwBYBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:34:26.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 41,
               "Title": "ModuleController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\ModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\ModuleController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\ModuleController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\ModuleController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\ModuleController.cs",
               "RelativeToolTip": "Web\\Controllers\\ModuleController.cs",
-              "ViewState": "AgIAAAABAAAAAAAAAAAzwBQBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:24:17.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 42,
               "Title": "FormModuleController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\FormModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\FormModuleController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\FormModuleController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\FormModuleController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\FormModuleController.cs",
               "RelativeToolTip": "Web\\Controllers\\FormModuleController.cs",
-              "ViewState": "AgIAAAMBAAAAAAAAAAAzwBEBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:29:06.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 43,
               "Title": "FormController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\FormController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\FormController.cs",
               "RelativeDocumentMoniker": "Web\\Controllers\\FormController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Controllers\\FormController.cs",
               "RelativeToolTip": "Web\\Controllers\\FormController.cs",
-              "ViewState": "AgIAAP4AAAAAAAAAAAA0wBQBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:24:01.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "FormModuleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\FormModuleRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\FormModuleRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\FormModuleRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\FormModuleRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:09:23.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Core\\IRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Core\\IRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Core\\IRepository.cs",
-              "RelativeToolTip": "Data\\Core\\IRepository.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAkwD8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T21:28:58.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "RolFormPermissionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolFormPermissionRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\RolFormPermissionRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolFormPermissionRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\RolFormPermissionRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T19:38:00.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Program.cs",
-              "RelativeDocumentMoniker": "Web\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Program.cs",
-              "RelativeToolTip": "Web\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:34:07.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BusinessException.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\BusinessException.cs",
-              "RelativeDocumentMoniker": "Utilities\\BusinessException.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\BusinessException.cs",
-              "RelativeToolTip": "Utilities\\BusinessException.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAA2wOgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T03:22:32.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RolUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolUserRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\RolUserRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolUserRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\RolUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T22:27:31.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "FormModuleDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\FormModuleDTO.cs",
-              "RelativeDocumentMoniker": "Entity\\DTO\\FormModuleDTO.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\FormModuleDTO.cs",
-              "RelativeToolTip": "Entity\\DTO\\FormModuleDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:53:45.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FormModule.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\FormModule.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\FormModule.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\FormModule.cs",
-              "RelativeToolTip": "Entity\\Model\\FormModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T22:28:48.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "FormService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\FormService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\FormService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\FormService.cs",
-              "RelativeToolTip": "Business\\Services\\FormService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:07:49.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "sqlServer.sql",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\sqlServer.sql",
-              "RelativeDocumentMoniker": "Entity\\DDL\\sqlServer.sql",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\sqlServer.sql",
-              "RelativeToolTip": "Entity\\DDL\\sqlServer.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-09T19:36:34.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "FormRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\FormRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\FormRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\FormRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\FormRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwBYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:26:39.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ModuleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\ModuleRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\ModuleRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\ModuleRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\ModuleRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:44:36.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "PersonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\PersonRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\PersonRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\PersonRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\PersonRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T17:31:38.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\appsettings.json",
-              "RelativeToolTip": "Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T20:42:19.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "RolUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolUserDTO.cs",
-              "RelativeDocumentMoniker": "Entity\\DTO\\RolUserDTO.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolUserDTO.cs",
-              "RelativeToolTip": "Entity\\DTO\\RolUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T22:31:31.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "RolUser.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\RolUser.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\RolUser.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\RolUser.cs",
-              "RelativeToolTip": "Entity\\Model\\RolUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T22:31:21.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "MySql.sql",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\MySql.sql",
-              "RelativeDocumentMoniker": "Entity\\DDL\\MySql.sql",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\MySql.sql",
-              "RelativeToolTip": "Entity\\DDL\\MySql.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-08T21:01:49.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "PostgreSql.sql",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\PostgreSql.sql",
-              "RelativeDocumentMoniker": "Entity\\DDL\\PostgreSql.sql",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\PostgreSql.sql",
-              "RelativeToolTip": "Entity\\DDL\\PostgreSql.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-09T19:53:11.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Person.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\Person.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Person.cs",
-              "RelativeToolTip": "Entity\\Model\\Person.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T21:29:25.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "RolFormPermissionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolFormPermissionDTO.cs",
-              "RelativeDocumentMoniker": "Entity\\DTO\\RolFormPermissionDTO.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolFormPermissionDTO.cs",
-              "RelativeToolTip": "Entity\\DTO\\RolFormPermissionDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T19:35:09.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "RolFormPermission.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\RolFormPermission.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\RolFormPermission.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\RolFormPermission.cs",
-              "RelativeToolTip": "Entity\\Model\\RolFormPermission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T19:35:19.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "FormModuleService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\FormModuleService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\FormModuleService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\FormModuleService.cs",
-              "RelativeToolTip": "Business\\Services\\FormModuleService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:21:38.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Rol.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Rol.cs",
-              "RelativeToolTip": "Entity\\Model\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T21:29:23.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "IPersonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IPersonRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Interfaces\\IPersonRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IPersonRepository.cs",
-              "RelativeToolTip": "Data\\Interfaces\\IPersonRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T03:14:00.427Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 44,
-              "Title": "PersonService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\PersonService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\PersonService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\PersonService.cs",
-              "RelativeToolTip": "Business\\Services\\PersonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:09:59.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "IModuleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IModuleRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Interfaces\\IModuleRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IModuleRepository.cs",
-              "RelativeToolTip": "Data\\Interfaces\\IModuleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T17:19:46.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "PermissionService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\PermissionService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\PermissionService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\PermissionService.cs",
-              "RelativeToolTip": "Business\\Services\\PermissionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:08:09.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "RolUserService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolUserService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\RolUserService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolUserService.cs",
-              "RelativeToolTip": "Business\\Services\\RolUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:18:23.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "RolService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\RolService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolService.cs",
-              "RelativeToolTip": "Business\\Services\\RolService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:13:47.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "ModuleService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\ModuleService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\ModuleService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\ModuleService.cs",
-              "RelativeToolTip": "Business\\Services\\ModuleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:11:19.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "RolDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolDTO.cs",
-              "RelativeDocumentMoniker": "Entity\\DTO\\RolDTO.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolDTO.cs",
-              "RelativeToolTip": "Entity\\DTO\\RolDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T22:19:21.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "RolRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\RolRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\RolRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\RolRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T04:21:14.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
               "Title": "Web.csproj",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj",
               "RelativeDocumentMoniker": "Web\\Web.csproj",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Web\\Web.csproj",
               "RelativeToolTip": "Web\\Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-09T05:37:36.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 45,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:53:48.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "IFormModuleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IFormModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IFormModuleRepository.cs",
               "RelativeDocumentMoniker": "Data\\Interfaces\\IFormModuleRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IFormModuleRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IFormModuleRepository.cs",
               "RelativeToolTip": "Data\\Interfaces\\IFormModuleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -952,23 +897,237 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "PermissionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\PermissionRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Repositories\\PermissionRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Repositories\\PermissionRepository.cs",
-              "RelativeToolTip": "Data\\Repositories\\PermissionRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 47,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Interfaces\\IPersonService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Interfaces\\IPersonService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:27:05.173Z"
+              "WhenOpened": "2025-04-08T20:08:11.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IFormService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Interfaces\\IFormService.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IFormService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Interfaces\\IFormService.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IFormService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:08:14.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\BusinessException.cs",
+              "RelativeDocumentMoniker": "Utilities\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\BusinessException.cs",
+              "RelativeToolTip": "Utilities\\BusinessException.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwOgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:22:32.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FormModuleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\FormModuleDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\FormModuleDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\FormModuleDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\FormModuleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:53:45.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormModule.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\FormModule.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\FormModule.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\FormModule.cs",
+              "RelativeToolTip": "Entity\\Model\\FormModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:28:48.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\FormService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\FormService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\FormService.cs",
+              "RelativeToolTip": "Business\\Services\\FormService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:07:49.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MySql.sql",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\MySql.sql",
+              "RelativeDocumentMoniker": "Entity\\DDL\\MySql.sql",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\MySql.sql",
+              "RelativeToolTip": "Entity\\DDL\\MySql.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-08T21:01:49.716Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 54,
+              "Title": "PostgreSql.sql",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\PostgreSql.sql",
+              "RelativeDocumentMoniker": "Entity\\DDL\\PostgreSql.sql",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DDL\\PostgreSql.sql",
+              "RelativeToolTip": "Entity\\DDL\\PostgreSql.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-09T19:53:11.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Person.cs",
+              "RelativeToolTip": "Entity\\Model\\Person.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:29:25.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RolFormPermissionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolFormPermissionDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\RolFormPermissionDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolFormPermissionDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\RolFormPermissionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:35:09.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RolFormPermission.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\RolFormPermission.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\RolFormPermission.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\RolFormPermission.cs",
+              "RelativeToolTip": "Entity\\Model\\RolFormPermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:35:19.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FormModuleService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\FormModuleService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\FormModuleService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\FormModuleService.cs",
+              "RelativeToolTip": "Business\\Services\\FormModuleService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:21:38.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Rol.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Rol.cs",
+              "RelativeToolTip": "Entity\\Model\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:29:23.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IPersonRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:14:00.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\PersonService.cs",
+              "RelativeToolTip": "Business\\Services\\PersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:09:59.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IModuleRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IModuleRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IModuleRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IModuleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:19:46.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PermissionService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\PermissionService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\PermissionService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\PermissionService.cs",
+              "RelativeToolTip": "Business\\Services\\PermissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:08:09.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ModuleService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\ModuleService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ModuleService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\ModuleService.cs",
+              "RelativeToolTip": "Business\\Services\\ModuleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:11:19.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RolDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolDTO.cs",
+              "RelativeDocumentMoniker": "Entity\\DTO\\RolDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\RolDTO.cs",
+              "RelativeToolTip": "Entity\\DTO\\RolDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:19:21.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
               "Title": "FormDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\FormDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\FormDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\FormDTO.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\FormDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\FormDTO.cs",
               "RelativeToolTip": "Entity\\DTO\\FormDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -976,23 +1135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "RolFormPermissionService.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolFormPermissionService.cs",
-              "RelativeDocumentMoniker": "Business\\Services\\RolFormPermissionService.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Business\\Services\\RolFormPermissionService.cs",
-              "RelativeToolTip": "Business\\Services\\RolFormPermissionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:20:10.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 67,
               "Title": "IRolRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IRolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IRolRepository.cs",
               "RelativeDocumentMoniker": "Data\\Interfaces\\IRolRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IRolRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IRolRepository.cs",
               "RelativeToolTip": "Data\\Interfaces\\IRolRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1000,23 +1147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "DataException.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\DataException.cs",
-              "RelativeDocumentMoniker": "Utilities\\DataException.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Utilities\\DataException.cs",
-              "RelativeToolTip": "Utilities\\DataException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T03:22:34.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 68,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\context\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Entity\\context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\context\\ApplicationDbContext.cs",
               "RelativeToolTip": "Entity\\context\\ApplicationDbContext.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAqwDoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1024,11 +1159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 69,
               "Title": "PersonDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\PersonDTO.cs",
               "RelativeDocumentMoniker": "Entity\\DTO\\PersonDTO.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\DTO\\PersonDTO.cs",
               "RelativeToolTip": "Entity\\DTO\\PersonDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1036,23 +1171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "IRolUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IRolUserRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Interfaces\\IRolUserRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Data\\Interfaces\\IRolUserRepository.cs",
-              "RelativeToolTip": "Data\\Interfaces\\IRolUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T22:27:23.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 70,
               "Title": "Permission.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Permission.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Permission.cs",
               "RelativeDocumentMoniker": "Entity\\Model\\Permission.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Permission.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\ModeloSeguridad\\ModelSecurityCt\\Entity\\Model\\Permission.cs",
               "RelativeToolTip": "Entity\\Model\\Permission.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
